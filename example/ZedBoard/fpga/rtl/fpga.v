@@ -34,7 +34,7 @@ THE SOFTWARE.
 module fpga (
     /*
      * Clock: 100MHz
-     * Reset: Push button, active low
+     * Reset: Push button, active high
      */
     input  wire       clk,
     input  wire       reset,
