@@ -1,4 +1,4 @@
-# Verilog Ethernet Nexys Video Example Design
+# Verilog Ethernet ZedBoard Example Design
 
 ## Introduction
 
